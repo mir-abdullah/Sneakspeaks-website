@@ -1,0 +1,26 @@
+fieldset {
+    border: 2px solid #007bff;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  legend {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .shop-button {
+    margin-top: 20px;
+  }
